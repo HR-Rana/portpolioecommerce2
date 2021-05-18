@@ -1,0 +1,168 @@
+
+
+
+
+
+.menu-area{
+	display: none;
+}
+
+.mathod-area{
+	padding: 50px 0;
+}
+.payment-method{}
+.payment-method h2{
+	text-align: center;
+	color: black
+	padding: 15px 0;
+	margin: 15px 0;
+}
+.bank-card{
+	display: flex;
+	justify-content: space-between;
+}
+
+.card{
+	width: 32%;
+}
+.card img{
+	width: 100%;
+	height: 200px;
+}
+
+.redio-area{
+	position: relative;
+}
+.card-radio{
+	background-color: #fcf5fa;
+	padding: 50px 0;
+}
+.card-list{
+	display: flex;
+}
+.card-list input{
+	size: 50px;
+	width: 30px;
+	padding: 20px;
+}
+.paypal label:hover{
+	color: #3ac2ee;
+	background-color: #dddd;
+	padding: 10px 15px;
+	border-radius: 10px;
+
+}
+.master label:hover{
+	color:#e1c50b;
+	background-color: #dddd;
+	padding: 10px 15px;
+	border-radius: 10px;
+
+}
+.payoneer label:hover{
+	color: red;
+	background-color: #dddd;
+	padding: 10px 15px;
+	border-radius: 10px;
+
+}
+.card-list{
+	position: absolute;
+	margin:30px 0;
+}
+.card-list label{
+	font-size: 25px;
+}
+.paypal{
+	margin: 15px;
+}
+.payoneer{
+	margin: 15px;
+}
+.master{
+	margin: 15px;
+}
+.cradit label:hover{
+	color:#e58e26;
+	background-color: #dddd;
+	padding: 10px 15px;
+	border-radius: 10px;
+
+}
+.cradit{
+	margin: 15px;
+}
+.card-nmbr{
+	background-color: #f6e58d;
+	overflow: hidden;
+}
+.nmbr{
+	width: 30%;
+	float: right;
+	overflow: hidden;
+	border: 1px solid grey;
+	display: block;
+	padding: 25px;
+}
+.nmbr label{
+	
+	justify-content: center;
+	text-align: center;
+	font-size: 20px;
+	font-weight: 500;
+	padding: 20px 0;
+}
+.nmbr input{
+
+}
+
+.details{
+	width: 100%;
+}
+.details h5{
+	margin: 15px 0;
+	font-size: 25px;
+	width: 40%;
+	text-align: center;
+}
+.porichoy{
+	width: 40%;
+	background-color: transparent;
+	box-shadow: 2px 10px 20px black;
+	padding: 20px;
+}
+.user-address{
+ 	width:90%; 
+}
+.user-address input{
+	width:80%; 
+}
+.submit{
+	width: 50%;
+	margin: 50px auto;
+	justify-content: center;
+}
+.submit button:hover{
+	color: black;
+	background-color: #f6e58d;
+}
+.submit button{
+	width: 100%;
+	font-size: 20px;
+	text-transform: uppercase;
+	font-style: italic;
+}
+label{
+	text-transform: capitalize;
+	font-weight: 500;
+	margin-top: 10px;
+}
+
+
+.footer{
+	padding: 50px 0;
+}
+.delivery{
+	width: 30%;
+	justify-content: center;
+}

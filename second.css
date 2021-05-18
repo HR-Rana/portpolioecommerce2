@@ -1,0 +1,90 @@
+
+
+.top-review{
+	display: flex;
+}
+.profile{
+	width: 23%;
+}
+
+.products{
+	
+}
+.product-area{
+	height: 100%;
+	overflow: hidden;
+}
+
+.review-area2{
+
+}
+.review2{
+	width: 50%;
+	overflow: hidden;
+
+}
+.review2 h5{
+	font-weight: 600;
+	font-size: 25px;
+}
+.profile2{
+	width: 40%;
+	display: flex;
+	border-bottom: 1px solid #ecf0f1;1
+	padding: 10px 0;
+	overflow: hidden;
+}
+.profile2 img{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+}
+.profile2 p{
+	height: auto;
+	display: block;
+	overflow: hidden;
+	margin-left: 10px;
+	text-align: justify;
+}
+.profile2 p span{
+	color: #d35400;
+	float: right;
+	overflow: hidden;
+	margin-top: 25px;
+	font-weight: 600;
+}
+.write-review{
+	width: 100%;
+	margin: 10px;
+}
+.write-review h6{
+	font-size: 20px;
+	font-weight: 500;
+}
+.review-box{
+	display: block;
+}
+.review-box textarea{
+	width: 350px;
+	height: 200px;
+	text-transform: capitalize;
+}
+.review-box button{
+	background-color: blue;
+	padding: 5px 15px;
+	color: white;
+	border-radius: 10px;
+}
+.abc{
+	height:100%;
+}
+.listb button:focus{
+	background-color: tomato;
+}
+.listb{
+	height: 300px;
+	display: block;
+	border: 1px solid black;
+	padding: 20px;
+	margin-right: 2px;
+}

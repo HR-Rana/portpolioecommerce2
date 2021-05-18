@@ -1,0 +1,139 @@
+
+
+
+.carousel{
+	width: 100%;
+	padding-top: 50px;
+}
+
+.owl-nav{
+	width: 30%;
+	font-size: 60px;
+	margin: 0 auto;
+	text-align: center;
+	justify-content: center;
+}
+.owl-nav .owl-prev{
+	margin: 10px;
+}
+.owl-nav .owl-next{
+	margin: 10px;
+}
+
+.listb button:focus{
+	background-color: tomato;
+}
+.listb{
+	width: 20%;
+	height: 400px;
+	margin-right: 20px;
+	border: 1px solid black;
+	padding: 10px;
+
+}
+.listb li a{
+	color: black;
+}
+.top-review{
+	width: 48%;
+	display: flex;
+	overflow: hidden;
+}
+.profile{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+}
+.profile img{
+	width: 100%;
+	border-radius: 50%;
+	padding: 2px;
+}
+.comment{
+	width:100%; 
+	overflow: hidden;
+	
+}
+.comment p{
+	width: 90%;
+}
+.comment span{
+	color: red;
+	font-size: 18px;
+	width: 25%;
+	float: right;
+	overflow: hidden;
+	margin-right: 15px;
+}
+.about-area{}
+.about-area h5{
+	text-align: center;
+	color: white;
+}
+.about{
+	display: flex;
+}
+
+
+
+.review-area1{
+	display: flex;
+}
+.review1{
+	width: 50%;
+	overflow: hidden;
+
+}
+.review1 h5{
+	font-weight: 600;
+	font-size: 25px;
+}
+.profile1{
+	width: 90%;
+	display: flex;
+	border-bottom: 1px solid #ecf0f1;1
+	padding: 10px 0;
+	overflow: hidden;
+	margin: 15px 01px;
+}
+.profile1 img{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+}
+.profile1 p{
+	height: auto;
+	display: block;
+	overflow: hidden;
+	margin-left: 10px;
+	text-align: justify;
+}
+.profile1 p span{
+	color: #d35400;
+	float: right;
+	overflow: hidden;
+	margin-top: 25px;
+	font-weight: 600;
+}
+.write-review{
+	width: 100%;
+	margin: 10px;
+}
+.write-review h6{
+	font-size: 20px;
+	font-weight: 500;
+}
+.review-box{
+	display: block;
+}
+.review-box textarea{
+	width: 350px;
+	height: 200px;
+	text-transform: capitalize;
+}
+.review-box button{
+	background-color: blue;
+	padding: 5px 15px;
+	color: white;
+	border-radius: 10px;
+}

@@ -322,26 +322,17 @@
 
 @media (max-width: 500px){
 	.float-box{
-	width:60%;
+	width:20%;
 	justify-content: space-between;
 	}
 	.menu-icon i{
 	margin-right: 5px;
-	font-size: 18px;
+	font-size: 20px;
 	width: 100px;
 	float: none;
 	overflow: hidden;
 	}
-	.float-box{
-		width: 20%;
-		float: right;
-		padding:5px;
-	}
-	.float-box{
-	width: 20%;
-	float: right;
-	padding:5px;
-	}
+	
 	.fill{
 	display:none;
 	}

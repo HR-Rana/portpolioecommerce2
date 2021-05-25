@@ -320,7 +320,7 @@
 }
 
 
-@media (max-width: 500px){
+@media (max-width: 480px){
 	.float-box{
 	width:20%;
 	justify-content: space-between;
@@ -364,13 +364,3 @@
 }
 
 
-@media (max-width: 380px){
-	.card img{
-		width: 100%;
-		height: 80px;
-	}
-	.float-box{
-	width:20%;
-	justify-content: space-between;
-	}
-}

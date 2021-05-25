@@ -1,0 +1,379 @@
+
+
+
+
+
+
+@media (max-width:1200px){
+	.float-box{
+	width: 40%;
+	float: right;
+	overflow: hidden;
+	display: flex;
+	padding: 15px;
+	}
+}
+@media (max-width:992px){
+	.float-box{
+	width: 50%;
+	float: right;
+	overflow: hidden;
+	display: flex;
+	padding: 15px;
+	}
+}
+
+
+
+
+
+
+
+/* shop. html*/
+
+@media (max-width: 768px){
+	.logo{
+	width: 30%;
+	}
+	.logo h5{
+	font-size: 15px;
+	font-weight: 500;
+	}
+	.logo h5 span{
+	font-size: 20px;
+	}
+	.float-box{
+	width: 20%;
+	float: right;
+	padding:5px;
+	}
+	.banner-layer img{
+	  width: 100%;
+	  height: 200px;
+	}
+	.fill input{
+		font-size: 11px;
+		height: 20px;
+	}
+
+
+	.card{
+		width: 32%;
+	}
+	.card img{
+		width: 100%;
+		height: 100px;
+	}
+	.card-list{
+	margin:15px 0;
+	}
+	.card-list label{
+	font-size:12px;
+	}
+	.paypal{
+		margin: 5px;
+	}
+	.payoneer{
+		margin: 5px;
+	}
+	.master{
+		margin:5px;
+	}
+	.cradit{
+	margin: 5px;
+	}
+	.paypal label:hover{
+		padding: 5px 7px;
+	}
+	.master label:hover{
+		padding: 5px 7px;
+	}
+	.payoneer label:hover{
+		padding: 5px 7px;
+	}
+	.cradit label:hover{
+		padding: 5px 7px;
+	}
+	.nmbr{
+	width: 70%;
+	float: none;
+	overflow: hidden;
+	margin: 35px auto;
+	margin-top: 50px;
+	border:none;
+	padding: 30px;
+	}
+	.nmbr label{
+	font-size: 13px;
+	font-weight: 500;
+	padding: 10px 0;
+	}
+	.porichoy{
+	width: 75%;
+	padding: 20px;
+	}
+	.details h5{
+	margin: 25px 0;
+	font-size: 22px;
+	width: 60%;
+	}
+	.submit{
+	width: 80%;
+	margin: 50px auto;
+	}
+	.submit button{
+	font-size: 13px;
+	font-weight: 500;
+	}
+	.footer{
+	display: block;
+	overflow: hidden;
+	}
+	.footer .short-nav{
+	width: 65%;
+	padding: 20px 0;
+	margin: 0 auto;
+	}
+	.next-area{
+		width:100%;
+		margin: 50px auto;
+		overflow: hidden;
+	}
+	.more-area a i{
+		margin: 0 15px;
+	}
+	.more-area a{
+		text-decoration: none;
+		margin: 10px 5px;
+	}
+	.more-area a p{
+		width: 20px;
+		height: 20px;
+		font-size: 12px;
+	}
+	.more-area a i.fa-angle-right{
+		margin-left: 25px;
+	}
+	.more-area a i{
+		font-size: 18px;
+	}
+	.more-area a h6{
+		width: 100px;
+		font-size: 12px;
+		font-style: italic;
+
+	}
+	.review{
+	width: 100%;
+	}
+	.profile img{
+		width: 50px;
+		height: 50px;
+		border-radius: 50%;
+	}
+	.discount-area{
+		display: none;
+	}
+	.review-box textarea{
+		width: 220px;
+		height: 150px;
+		text-transform: capitalize;
+	}
+	.review-box button{
+	background-color: blue;
+	padding: 5px 10px;
+	font-size: 14px;
+	color: white;
+	border-radius: 10px;
+	}
+	.quick-area{
+	right: 20px;
+	bottom: 20px;
+	}
+	.messenger i{
+	font-size: 30px;
+	}
+	.messege-box input{
+	border-radius: 30px;
+	margin: 5px 0px;
+	}
+	.messengerbg{
+		width: 250px;
+	}
+	.m-header p{
+		font-size: 13px;
+
+	}
+	.mbody{
+		height: 250px;
+		width: 100%;
+		background-color: #ecf0f1;
+	}
+	.mbody i{
+		margin: 70px;
+		font-size: 40px;
+		opacity: 20%;
+		padding: 0 20px;
+	}
+	.product-area{
+		margin: 20px 0;
+	}
+	.product-area h3{
+		font-size: 25px;
+	}
+	.abc{
+		display: block;
+	}
+	.list{
+		width: 95%;
+		height: 100px;
+	}
+
+	.lipstics img{
+	width: 100%;
+	height: 150px;
+	}
+	.price{
+	width: 45px;
+	height: 45px;
+	}
+	.price p{
+	font-size: 12px;
+		padding-top: 5px;
+	}
+	.shop{
+	width: 85%;
+	height:40px;
+	background-color:rgba(0,0,0,.0);
+	border-radius: 0px 0px 0 0;
+	}
+	.shop a{
+	display:block;
+	}
+	.shop a h6{
+	font-size: 11px;
+	padding: 7px 5px;
+	}
+
+	.attention{
+	width: 75%;
+	margin-top: 20px;
+	}
+	.attention h6{
+	font-size: 25px;
+	}
+	.attention p span{
+	font-size: 20px;
+	font-weight: 600;
+	}
+	.owl-nav{
+	width: 60%;
+	font-size: 30px;
+	}
+	.fill input{
+		display: none;
+	}
+
+
+					/* ///////////        	1No paage   		//////// */
+
+
+
+	.review-area1{
+		display: block;
+	}
+	.review1{
+	width: 80%;
+
+	}
+	.about{
+		display: block;
+	}
+	.comment{}
+	.comment p{
+	}
+	.comment span{
+		width: 40%;
+	}
+	.abc{
+		display: block;
+	}
+	.listb{
+		width: 95%;
+		height: 100px;
+	}
+	.review1{
+	width: 90%;
+	}
+	.review2{
+	width: 100%;
+	}
+	.profile2{
+	width:80%;
+	}
+	.dispro{
+		width:32%;
+	}
+	.dispro p{
+		font-size: 12px;
+	}
+
+
+}
+
+
+@media (max-width: 500px){
+	.float-box{
+	width: 20%;
+	float: right;
+	padding:5px;
+	}
+	.menu-icon i{
+	margin-right: 5px;
+	font-size: 18px;
+	width: 100px;
+	float: none;
+	overflow: hidden;
+	}
+	.fill{
+	margin-right: 5px;
+	}
+
+	.abc{
+	display: block;
+	}
+	.price{
+	width: 35px;
+	height: 35px;
+	}
+	.price p{
+	font-size: 11px;
+		padding-top: 5px;
+	}
+	.list{
+		width: 100%;
+		height: 80px;
+	display: flex;
+	overflow: hidden;
+	}
+	.list button{
+		font-size: 12px;
+		font-weight: 0;
+		break-after: auto;
+		padding: 0 5px;
+	}
+
+}
+
+
+@media (max-width: 480px){
+	.card img{
+		width: 100%;
+		height: 80px;
+	}
+	..float-box{
+	width: 20%;
+	float: right;
+	padding:5px;
+	}
+}
